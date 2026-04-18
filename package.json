@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/http-tplinkwifi-net",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a http-tplinkwifi-net",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/http-tplinkwifi-net.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://sitiosweb.mx/http-tplinkwifi-net/"
+    },
+    "homepage": "https://sitiosweb.mx/http-tplinkwifi-net/"
+}
